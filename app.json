@@ -1,4 +1,8 @@
 {
   "name": "QuranPlayer",
-  "displayName": "QuranPlayer"
+  "displayName": "QuranPlayer",
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-8343081326487707~2592953251"
+    
+  }
 }
